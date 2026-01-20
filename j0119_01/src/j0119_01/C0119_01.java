@@ -1,6 +1,6 @@
 package j0119_01;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 // Scanner 작성 후 ctrl+shift+m -> import 자동완성
 
 // 내장객체는 import해야 사용가능 - System
