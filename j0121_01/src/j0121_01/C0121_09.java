@@ -52,7 +52,7 @@ public class C0121_09 {
 						score[count][3] = total;  // 0번째 : 국어 , 1번째 : 영어 , 2번째 : 수학 , 3번째 : 합계
 						
 						System.out.println("학생성적이 입력되었습니다.");
-						count++; // 다음 학생 // 합계에 넣어야함
+						count++; // 다음 학생 // 합계에 넣어야함 //while문 안에 있어야함
 						//합계
 					System.out.println();
 				}
